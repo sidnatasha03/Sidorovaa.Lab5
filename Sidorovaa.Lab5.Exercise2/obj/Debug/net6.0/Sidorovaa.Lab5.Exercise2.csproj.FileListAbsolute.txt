@@ -1,0 +1,16 @@
+D:\вижуал\Sidorovaa.Lab5.Exercise2\bin\Debug\net6.0\Sidorovaa.Lab5.Exercise2.exe
+D:\вижуал\Sidorovaa.Lab5.Exercise2\bin\Debug\net6.0\Sidorovaa.Lab5.Exercise2.deps.json
+D:\вижуал\Sidorovaa.Lab5.Exercise2\bin\Debug\net6.0\Sidorovaa.Lab5.Exercise2.runtimeconfig.json
+D:\вижуал\Sidorovaa.Lab5.Exercise2\bin\Debug\net6.0\Sidorovaa.Lab5.Exercise2.dll
+D:\вижуал\Sidorovaa.Lab5.Exercise2\bin\Debug\net6.0\ref\Sidorovaa.Lab5.Exercise2.dll
+D:\вижуал\Sidorovaa.Lab5.Exercise2\bin\Debug\net6.0\Sidorovaa.Lab5.Exercise2.pdb
+D:\вижуал\Sidorovaa.Lab5.Exercise2\obj\Debug\net6.0\Sidorovaa.Lab5.Exercise2.csproj.AssemblyReference.cache
+D:\вижуал\Sidorovaa.Lab5.Exercise2\obj\Debug\net6.0\Sidorovaa.Lab5.Exercise2.GeneratedMSBuildEditorConfig.editorconfig
+D:\вижуал\Sidorovaa.Lab5.Exercise2\obj\Debug\net6.0\Sidorovaa.Lab5.Exercise2.AssemblyInfoInputs.cache
+D:\вижуал\Sidorovaa.Lab5.Exercise2\obj\Debug\net6.0\Sidorovaa.Lab5.Exercise2.AssemblyInfo.cs
+D:\вижуал\Sidorovaa.Lab5.Exercise2\obj\Debug\net6.0\Sidorovaa.Lab5.Exercise2.ImplicitNamespaceImports.cs
+D:\вижуал\Sidorovaa.Lab5.Exercise2\obj\Debug\net6.0\Sidorovaa.Lab5.Exercise2.csproj.CoreCompileInputs.cache
+D:\вижуал\Sidorovaa.Lab5.Exercise2\obj\Debug\net6.0\Sidorovaa.Lab5.Exercise2.dll
+D:\вижуал\Sidorovaa.Lab5.Exercise2\obj\Debug\net6.0\ref\Sidorovaa.Lab5.Exercise2.dll
+D:\вижуал\Sidorovaa.Lab5.Exercise2\obj\Debug\net6.0\Sidorovaa.Lab5.Exercise2.pdb
+D:\вижуал\Sidorovaa.Lab5.Exercise2\obj\Debug\net6.0\Sidorovaa.Lab5.Exercise2.genruntimeconfig.cache

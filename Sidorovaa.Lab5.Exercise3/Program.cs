@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace Sidorova.Lab5.Exercise3;
 class Program
@@ -6,63 +6,31 @@ class Program
     static void Main(string[] args)
     {
 
-        int cruch = 10;
-        int ckar = 5;
-        int clas = 2;
+        int cr = 10;
+        int ck = 5;
+        int cl = 2;
         int sum = 100;
 
-        int ruch = 0;
-        int kar = 0;
-        int las = 0;
 
+        int r = 0;
+        int k = 0;
+        int l = 0;
 
-
-        do
+        for (r = 0; r <= 30; r++)
         {
-
-            ruch++;
-
+            for (l = 0; l <= 30; l++)
+            {
+                for (k = 0; k <= 30; k++)
+                {
+                    if (l + r + k == 30 & cr * r + cl * l + ck * k == 100)
+                    {
+                        Console.WriteLine("Количество ручек:" + r);
+                        Console.WriteLine("Количество ластиков:" + l);
+                        Console.WriteLine("Количество карандашей:" + k);
+                    }
+                   
+                }
+            }
         }
-        while (ruch < 2);
-
-
-        do
-        {
-
-            kar++;
-
-        }
-        while (kar < 8);
-
-        do
-        {
-
-
-            las++;
-        }
-
-        while (las < 20);
-
-
-        int u = las + ruch + kar;
-
-        if (cruch * ruch + clas * las + ckar * kar == 100)
-        {
-            Console.WriteLine("Ручек: " + ruch);
-            Console.WriteLine("Карандашей: " + kar);
-            Console.WriteLine("Ластиков: " + las);
-            Console.WriteLine("Всего: " + u);
-
-
-        }
-
-        else
-        {
-            Console.WriteLine("error");
-        }
-
-
     }
 }
-
-
